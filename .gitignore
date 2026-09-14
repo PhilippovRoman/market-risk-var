@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+data/raw/
+data/processed/
+results/backtest_forecasts.csv
